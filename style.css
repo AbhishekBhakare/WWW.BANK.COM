@@ -1,0 +1,111 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.main-container{
+    height: 800vh;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    background-color: white;
+    flex-basis: 5%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.logo{
+    background-color: aquamarine;
+    flex-basis: 30%;
+}
+.nav{
+    background-color: green;
+    flex-basis: 70%;
+}
+.main{
+    background-color: gray;
+    flex-basis:     9%
+}
+.main1{
+    background-color: orange;
+    flex-basis: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.Feature1{
+    background-color: lightcoral;
+    flex-basis: 20%;
+    
+}
+.Feature2{
+    background-color: magenta;
+    flex-basis: 20%;
+}
+.Feature3{
+    background-color: orchid;
+    flex-basis: 20%;
+}
+.about{
+    background-color: chartreuse;
+    flex-basis: 15%;
+}
+
+.main2{
+    background-color: orange;
+    flex-basis: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    
+}
+.review1{
+    background-color: lightcoral;
+    flex-basis: 15%;
+    
+}
+.review2{
+    background-color: magenta;
+    flex-basis: 15%;
+}
+.review3{
+    background-color: orchid;
+    flex-basis:15%;
+}
+.main3{
+    background-color: orange;
+    flex-basis: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    
+}
+.basic1{
+    background-color: grey;
+    flex-basis: 30%;
+    
+}
+.standard{
+    background-color: white;
+    flex-basis: 30%;
+    
+}
+.premium{
+    background-color: chocolate;
+    flex-basis: 30%;
+}
+.contact{
+    background-color: darkblue;
+    flex-basis: 15%;
+}
+
+.footer{
+    background-color: red;
+    flex-basis: 5%;
+}
